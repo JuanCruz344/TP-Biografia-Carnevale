@@ -8,3 +8,6 @@ div#Titulo {
   justify-content: space-around;
   align-items: center;
 }
+body {
+   background-color: lightblue;
+}
