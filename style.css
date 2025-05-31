@@ -34,3 +34,13 @@ div.Titulo2 {
     height: 200px;
     box-shadow: 0 0 5px #333;
 }
+div.Titulo3 {
+  background-color: lavender;
+  padding: 20px;
+  border: 2px solid #036;
+  color: black;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
