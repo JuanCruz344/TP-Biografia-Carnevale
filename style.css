@@ -21,3 +21,16 @@ div.Titulo2 {
   justify-content: space-around;
   align-items: center;
 }
+.artistas {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.artista {
+    text-align: center;
+}
+.artista img {
+    width: 200px;
+    height: 200px;
+    box-shadow: 0 0 5px #333;
+}
